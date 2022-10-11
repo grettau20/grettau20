@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gretta
-- 👀 I’m interested in data analysis, statistics and finance 
+- 👀 I’m interested in learning more about data analysis. 
 - 🌱 I’m currently learning coding/programming 
 - 💞️ I’m looking to collaborate on all the course projects 
 - 📫 How to reach me @ grettau@gmail.com
